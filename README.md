@@ -1,7 +1,7 @@
 # Hello!
 - I’m Maxwell Griffith
 -  I’m interested in Mathematics and Data Science
--  I’m currently learning Python/Pandas, C++, and SQL
+-  I’m currently developing my skills with SQL, Python/Pandas, and C++
 -  How to reach me maxwellgriffith345@gmail.com
 
 <!---
