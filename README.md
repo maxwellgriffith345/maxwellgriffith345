@@ -5,9 +5,9 @@
 -  How to reach me maxwellgriffith345@gmail.com
 
 ## [Formula 1 Project](https://github.com/maxwellgriffith345/Python_Projects)
-   A data mining project to scrap the race results for every race from 1950 - 2020, exctracting over 20,000 lines of data. The data includes drivers name, finishg position, points earned, race location, race circuit, race date, and laps raced. I leveraged Beautfil Soups HTML parcing and Pandas data frame tools to find the infromatin I needed and load it to a matrix. <br/>
-  I then cleaned the data and prerped it for analysis. Many of the tracks and drivers names are formated with excluded characters. I searched the data for invalid characters and replaced them with useable alternatives.  <br/>
-  I loaded the data into a local database and used SQL to run quries with the motivation of answering basic facts about driver perofmrance. [F1 SQL](https://github.com/maxwellgriffith345/SQL_Projects/tree/main/F1DataBase)  <br/>
+   Skills Used: Python, SQL, Matplotlib, Seaborn <br/>
+   A data mining project built to scrape the race results for 1950 - 2020, exctracting over 20,000 lines of data. I leveraged Python libraries Beautfil Soup for HTML parcing and Pandas' data frame tools. I cleaned the data in excel, created a database, and used SQL to answer questions about drivers,treams and circuits. [F1 SQL](https://github.com/maxwellgriffith345/SQL_Projects/tree/main/F1DataBase)  Diving into the ccontentious  2020 season I created visualizations for the battle betweent he top two drivers. Using Seaborn and Matplotlib I created different views to show the points battle.<br/>
+   
   
   
 
