@@ -11,7 +11,13 @@
 ## [Covid Vaccine Project](https://github.com/maxwellgriffith345/SQL_Projects/tree/main/CovidExploration)
   Skills & Technology: SQL, Microsoft SQL Server Managment Studio <br/>
   Exploration in SQL of data sets for Covid deaths and Covid vaccinations.
-
+## Tutorials, Courses and Books
+### SQL
+  - [Mode Data Analysis Tutorial](https://github.com/maxwellgriffith345/SQL_Projects/tree/main/ModeDataAnalysisTutorial) <br/>
+  - [SQL The Hard Way](https://github.com/maxwellgriffith345/SQL_Projects/tree/main/SQLTheHardWayNotes)
+  - [Free Code Camp SQL Tutorial](https://github.com/maxwellgriffith345/SQL_Projects/tree/main/freeCodeCampNotes)
+### Python
+  - [Python for Data Analysis](https://github.com/maxwellgriffith345/Python_Projects/tree/main/Pandas_Exploration)
 <!---
 maxwellgriffith345/maxwellgriffith345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
