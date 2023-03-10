@@ -6,17 +6,20 @@
 
 ## [Formula 1 Project](https://github.com/maxwellgriffith345/Python_Projects)
    Skills & Technology: Python, SQL, Matplotlib, Seaborn <br/>
-   A data mining project built to scrape all Formula 1 race results for years 1950 - 2020, exctracting over 20,000 lines of data. I leveraged Python libraries Beautfil Soup for HTML parcing and Pandas' data frame tools. I cleaned the data in excel, created a database, and used SQL to answer questions about drivers,treams and circuits. [F1 SQL](https://github.com/maxwellgriffith345/SQL_Projects/tree/main/F1DataBase)  Using Seaborn and Matplotlib I created [visualizations](https://github.com/maxwellgriffith345/Python_Projects/tree/main/F1_Vis) for the battle betweent the top two drivers during the 2020 season. <br/>
+   - Data mining project built to scrape all Formula 1 race results for years 1950 - 2020, exctracting over 20,000 lines of data. 
+   - Python libraries Beautfil Soup for HTML parcing and Pandas' data frame tools. 
+   - I cleaned the data in excel, created a database, and used SQL to answer questions about drivers,treams and circuits. [F1 SQL](https://github.com/maxwellgriffith345/SQL_Projects/tree/main/F1DataBase)  
+   - Using Seaborn and Matplotlib I created [visualizations](https://github.com/maxwellgriffith345/Python_Projects/tree/main/F1_Vis) for the battle betweent the top two drivers during the 2020 season. <br/>
 ## [Covid Vaccine Project](https://github.com/maxwellgriffith345/SQL_Projects/tree/main/CovidExploration)
-  -Skills & Technology: SQL, Microsoft SQL Server Managment Studio <br/>
-  -Exploratory data analysis of the relationship between Covid deaths and Covid vaccination rates.
+  Skills & Technology: SQL, Microsoft SQL Server Managment Studio <br/>
+  - Exploratory data analysis of the relationship between Covid deaths and Covid vaccination rates.
 ## [Dashboards](https://github.com/maxwellgriffith345/Tableau_Projects)
-   -Skills & Technology: Data Visualization, Tableau
-   -Air BnB Market Analysis
-   -Video Game Sales
-   -Starbucks Locations
+   Skills & Technology: Data Visualization, Tableau
+   - Air BnB Market Analysis
+   - Video Game Sales
+   - Starbucks Locations
 ## Tutorials, Courses and Books
-  - Notes,examples, and excierces from self-study
+  Notes,examples, and excierces from self-study
 ### SQL
   - [Mode Data Analysis Tutorial](https://github.com/maxwellgriffith345/SQL_Projects/tree/main/ModeDataAnalysisTutorial) <br/>
   - [SQL The Hard Way](https://github.com/maxwellgriffith345/SQL_Projects/tree/main/SQLTheHardWayNotes)
