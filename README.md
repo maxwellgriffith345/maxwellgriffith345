@@ -12,7 +12,7 @@
   Skills & Technology: SQL, Microsoft SQL Server Managment Studio <br/>
   Exploratory data analysis of the relationship between Covid deaths and Covid vaccination rates.
 ## Tutorials, Courses and Books
-   Notes,examples, and excierces for courses and books I have worked on during self-study
+   Notes,examples, and excierces from self-study
 ### SQL
   - [Mode Data Analysis Tutorial](https://github.com/maxwellgriffith345/SQL_Projects/tree/main/ModeDataAnalysisTutorial) <br/>
   - [SQL The Hard Way](https://github.com/maxwellgriffith345/SQL_Projects/tree/main/SQLTheHardWayNotes)
